@@ -4,7 +4,7 @@ This is a modern, responsive, and feature-rich blogging application built with t
 
 ## **Live Demo**
 
-[Link to your live demo here]
+https://vue-blog-app-e759f.web.app/
 
 ## **Key Features**
 
